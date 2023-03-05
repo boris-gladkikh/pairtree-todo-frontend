@@ -1,4 +1,4 @@
-# Noted - To-Do App
+# Noted: To-Do App
 
 This project utilizes create-react-app as boilerplate,
 axios for AJAX requests,
